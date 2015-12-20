@@ -1,6 +1,8 @@
 # StreetViewVR
 GearVRにGoogle Street Viewを表示するサンプルです。
 
+![スクリーンショット](./Screenshot_2015-12-21-04-20-27.png "スクリーンショット")
+
 ###ビルド方法
 - 実機で実行する場合は、取得したosigファイルをプロジェクト配下の
 `Assets\Plugins\Android\assets`
@@ -20,3 +22,4 @@ GearVRにGoogle Street Viewを表示するサンプルです。
 
 - android SDKパスを設定する（ビルド時に聞かれた場合）
 例：C:\Users\<ユーザ名>\AppData\Local\Android\sdk
+
